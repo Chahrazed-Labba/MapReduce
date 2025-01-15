@@ -2,7 +2,7 @@
 
 ## Description
 
-Ce projet utilise le paradigme **MapReduce** et le framework **Hadoop** pour compter les occurrences de mots dans un fichier texte. Le programme est écrit en Java et s’appuie sur des composants comme le Mapper, le Reducer et le Driver pour exécuter des tâches distribuées.
+Ce projet utilise le paradigme **MapReduce** et le framework **Hadoop** pour compter les occurrences de mots dans un fichier texte. Le programme est écrit en Java et s’appuie sur des composants comme le Mapper et le Reducer pour exécuter des tâches distribuées.
 
 ## Fonctionnement
 
