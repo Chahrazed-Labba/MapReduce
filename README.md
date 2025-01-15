@@ -1,4 +1,4 @@
-# README: Projet WordCount en Java avec Hadoop
+# Projet WordCount en Java avec Hadoop
 
 ## Description
 
